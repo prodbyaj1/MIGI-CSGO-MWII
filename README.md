@@ -17,7 +17,7 @@ Credits:
 
 
 
-
+If you would like to help or suggest anything, contact me on Discord (aj.xmodel)
 
 
 
