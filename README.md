@@ -4,17 +4,23 @@
 
 Credits:
 
-Activision, Infinity Ward, SledgeHammer Games, Treyarch - CoD Assets
+1. Activision, Infinity Ward, SledgeHammer Games, Treyarch - CoD Assets
 
-[x F R 3 N Z Y M O V x](https://www.youtube.com/@fr3nzymov1337) - QCI
+2. [x F R 3 N Z Y M O V x](https://www.youtube.com/@fr3nzymov1337) - QCI
 
-Kirloper - Assets
+3. Kirloper - Assets
 
-Mushroom Guy - [MWB Mats](https://github.com/mushroom-guy/mwb-materials)
+4. Mushroom Guy - [MWB Mats](https://github.com/mushroom-guy/mwb-materials)
 
-Nekyo-kyo, ZeroN - Some Help with Ports and Render
+5. [prod. by aj](https://www.youtube.com/channel/UC-deeJ3O7WW7mKPAWVjxlyw) - Porter
 
-[prod. by aj](https://www.youtube.com/channel/UC-deeJ3O7WW7mKPAWVjxlyw) - Porter
+
+
+
+
+
+
+
 
 
 I'm not working with ChrystaL anymore as he is a fucking retard who doesn't deserve anything good in life.
