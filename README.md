@@ -14,16 +14,7 @@ Mushroom Guy - [MWB Mats](https://github.com/mushroom-guy/mwb-materials)
 
 Nekyo-kyo, ZeroN - Some Help with Ports and Render
 
-prod. by aj - Porter
-
-
-
-
-
-
-
-
-[My YouTube Channel](https://www.youtube.com/channel/UC-deeJ3O7WW7mKPAWVjxlyw)
+[prod. by aj](https://www.youtube.com/channel/UC-deeJ3O7WW7mKPAWVjxlyw) - Porter
 
 
 I'm not working with ChrystaL anymore as he is a fucking retard who doesn't deserve anything good in life.
