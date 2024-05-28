@@ -23,4 +23,4 @@ If you would like to help or suggest anything, contact me on Discord (aj.xmodel)
 
 
 
-I'm not working with ChrystaL anymore as he is a fucking retard who doesn't deserve anything good in life.
+I'm not working with ChrystaL, waste of oxygen.
